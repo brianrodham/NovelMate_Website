@@ -1,0 +1,9 @@
+c:\users\linkmaster\documents\visual studio 2013\Projects\NovelMate Test\NovelMate Test\bin\NovelMate Test.dll.config
+c:\users\linkmaster\documents\visual studio 2013\Projects\NovelMate Test\NovelMate Test\bin\NovelMate Test.dll
+c:\users\linkmaster\documents\visual studio 2013\Projects\NovelMate Test\NovelMate Test\bin\NovelMate Test.pdb
+c:\users\linkmaster\documents\visual studio 2013\Projects\NovelMate Test\NovelMate Test\bin\NovelMate Test.xml
+c:\users\linkmaster\documents\visual studio 2013\Projects\NovelMate Test\NovelMate Test\obj\Debug\NovelMate_Test.Resources.resources
+c:\users\linkmaster\documents\visual studio 2013\Projects\NovelMate Test\NovelMate Test\obj\Debug\NovelMate Test.vbproj.GenerateResource.Cache
+c:\users\linkmaster\documents\visual studio 2013\Projects\NovelMate Test\NovelMate Test\obj\Debug\NovelMate Test.dll
+c:\users\linkmaster\documents\visual studio 2013\Projects\NovelMate Test\NovelMate Test\obj\Debug\NovelMate Test.xml
+c:\users\linkmaster\documents\visual studio 2013\Projects\NovelMate Test\NovelMate Test\obj\Debug\NovelMate Test.pdb
