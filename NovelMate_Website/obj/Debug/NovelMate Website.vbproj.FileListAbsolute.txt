@@ -1,0 +1,9 @@
+B:\Git Repos\NovelMate Website\NovelMate_Website\bin\NovelMate Website.dll.config
+B:\Git Repos\NovelMate Website\NovelMate_Website\bin\NovelMate Website.dll
+B:\Git Repos\NovelMate Website\NovelMate_Website\bin\NovelMate Website.pdb
+B:\Git Repos\NovelMate Website\NovelMate_Website\bin\NovelMate Website.xml
+B:\Git Repos\NovelMate Website\NovelMate_Website\obj\Debug\NovelMate_Website.Resources.resources
+B:\Git Repos\NovelMate Website\NovelMate_Website\obj\Debug\NovelMate Website.vbproj.GenerateResource.Cache
+B:\Git Repos\NovelMate Website\NovelMate_Website\obj\Debug\NovelMate Website.dll
+B:\Git Repos\NovelMate Website\NovelMate_Website\obj\Debug\NovelMate Website.xml
+B:\Git Repos\NovelMate Website\NovelMate_Website\obj\Debug\NovelMate Website.pdb
