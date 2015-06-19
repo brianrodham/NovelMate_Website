@@ -57,9 +57,7 @@
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Scripts\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Import Include="Microsoft.VisualBasic" />
     <Import Include="System" />
@@ -89,6 +87,7 @@
     <Content Include="Images\NovelMateLogo-web.png" />
     <Content Include="Images\pencil.png" />
     <Content Include="index.html" />
+    <Content Include="Scripts\request-access-submit.js" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>

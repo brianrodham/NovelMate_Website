@@ -29,6 +29,11 @@ padding: 0;
 
 }
 
+.BtnRequest {
+    margin:0 auto;
+    width:200px;
+}
+
 .masthead {
     position: relative;
     padding: 80px 0px;
@@ -172,6 +177,20 @@ float:left;
     float:left;
     width:100%;
     color: #94a3a8;
+}
 
+.success-text {
+    color: #4388C8;
+    width:100%;
+    font-weight:bold;
+    float:left;
+    display:none;
+}
 
+.fail-text {
+    color: #ea3232;
+    width:100%;
+    font-weight:bold;
+    float:left;
+    display:none;
 }
